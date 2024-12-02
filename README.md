@@ -27,11 +27,11 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2024/blob/main/day02">2</a></td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center">00:09:19</td>
+        <td align="center">2312</td>
+        <td align="center">00:03:32</td>
+        <td align="center">00:12:51</td>
+        <td align="center">1351</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2024/blob/main/day03">3</a></td>
