@@ -51,11 +51,11 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2024/blob/main/day05">5</a></td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center">00:15:02</td>
+        <td align="center">2702</td>
+        <td align="center">00:31:19</td>
+        <td align="center">00:46:21</td>
+        <td align="center">5281</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2024/blob/main/day06">6</a></td>
