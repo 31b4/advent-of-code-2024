@@ -59,11 +59,11 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2024/blob/main/day06">6</a></td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center">01:01:40</td>
+        <td align="center">10111</td>
+        <td align="center">04:40:34</td>
+        <td align="center">05:42:14</td>
+        <td align="center">16080</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2024/blob/main/day07">7</a></td>
