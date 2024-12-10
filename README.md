@@ -67,35 +67,35 @@
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2024/blob/main/day07">7</a></td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center">05:25:19</td>
+        <td align="center">22271</td>
+        <td align="center">00:17:48</td>
+        <td align="center">05:43:07</td>
+        <td align="center">20636</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2024/blob/main/day08">8</a></td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center">04:23:57</td>
+        <td align="center">17115</td>
+        <td align="center">00:04:56</td>
+        <td align="center">04:28:53</td>
+        <td align="center">15241</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2024/blob/main/day09">9</a></td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center">04:46:34</td>
+        <td align="center">19516</td>
+        <td align="center">12:02:00</td>
+        <td align="center">16:48:34</td>
+        <td align="center">31575</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2024/blob/main/day10">10</a></td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
-        <td align="center">-</td>
+        <td align="center">09:02:49</td>
+        <td align="center">27329</td>
+        <td align="center">00:28:01</td>
+        <td align="center">09:30:50</td>
+        <td align="center">26838</td>
     </tr>
     <tr>
         <td align="center"><a href="https://github.com/31b4/advent-of-code-2024/blob/main/day11">11</a></td>
